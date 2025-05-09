@@ -1,0 +1,3 @@
+{"id":1,"name":"Alice Johnson","email":"alice.johnson@example.com","isActive":1,"roles_admin":1,"roles_editor":1,"roles_viewer":0}
+{"id":2,"name":"Bob Smith","email":"bob.smith@example.com","isActive":0,"roles_admin":0,"roles_editor":0,"roles_viewer":1}
+{"id":3,"name":"Charlie Lee","email":"charlie.lee@example.com","isActive":1,"roles_admin":0,"roles_editor":1,"roles_viewer":1}
